@@ -1,0 +1,5 @@
+Dummy text for illustrating `git cherry-pick` commandline
+feature A
+feature B --> adding feature B' --> adding feature B''
+feature C
+feature D
